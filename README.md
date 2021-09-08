@@ -10,3 +10,9 @@ defaults write com.google.Chrome NSRequiresAquaSystemAppearance -bool Yes
 2 - restart chrome after that
 
 Macos only
+
+
+type on ssl error:
+```
+thisisunsafe
+```
